@@ -1,5 +1,6 @@
 ### Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/insights/yunjianshijie?template=classic&config.timezone=Asia%2FShanghai"> </div>
+## 你好呀
+<div align="center"> <img src="https://metrics.lecoq.io/insights/yunjianshijie"> </div>
 <!--
 **yunjianshijie/yunjianshijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
