@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 你好呀
-<div align="center"> <img src="https://metrics.lecoq.io/insights/yunjianshijie"> </div>
+<div align="center"> <img src="h[ttps://metrics.lecoq.io/insights/yunjianshijie](https://i.postimg.cc/7ZnBCPY9/17097330736765c3651b40a2e2f2df64c390b965e7913854f.jpg)"> </div>
 <!--
 **yunjianshijie/yunjianshijie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
